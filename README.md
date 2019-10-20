@@ -1,4 +1,5 @@
-# hello-world
-first repository
+# how to run
+go to src path
 
-My first try,Xu JiaYi,I am trying to keep up with you.
+javac *.java
+java MainJ
